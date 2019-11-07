@@ -1,7 +1,7 @@
 # Monte Carlo in Parallel
 
 This repository provides code for numerically computing an 
-[infinite integral](https://github.com/natsan91/Monte_Carlo_in_Parallel/blob/master/Infinite_Integral.pdf "pdf showing integral")
+[infinite integral](https://github.com/natsan91/Monte_Carlo_in_Parallel/blob/master/InfiniteIntegral.pdf "pdf showing integral")
 using Monte Carlo sampling. The integral is relatively simple to compute by hand, but Monte Carlo is a convenient way to do the 
 problem numerically even though the domain of integration is infinite. 
 
