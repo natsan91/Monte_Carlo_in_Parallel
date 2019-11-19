@@ -1,6 +1,6 @@
 # Monte Carlo in Parallel
 
-![Integrand](https://github.com/natsan91/Monte_Carlo_in_Parallel/blob/master/Integrand.eps)
+![Integrand](https://github.com/natsan91/Monte_Carlo_in_Parallel/blob/master/Integrand.pdf)
 
 This repository provides code for numerically computing the integral depicted above using Monte Carlo sampling. The integral is relatively simple to compute by hand (it equals 1/2), but Monte Carlo is a convenient way to do the  problem numerically even though the domain of integration is infinite. This integral can be computed numerically by considering the exponential part to be a probability distribution (note that it is a valid distribution as it is nonnegative and its
 total integral on 0 to 1 is 1), then the above integral is equivalent to the expectation of the cosine of X where X is a random variable drawn from the exponential distribution.
