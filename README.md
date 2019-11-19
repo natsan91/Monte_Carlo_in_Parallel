@@ -4,6 +4,10 @@
 
 This repository provides code for numerically computing the integral 
 
+```markdown
+![equation](https://latex.codecogs.com/gif.latex?\int_0^\infty&space;e^{-x}\cos(x)\,dx" title="\int_0^\infty e^{-x}\cos(x)\,dx)
+```
+
 
 $$
 \mathcal{I} = \int_0^\infty e^{-x} \cos(x)\,dx
