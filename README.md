@@ -3,13 +3,21 @@
 <img src="https://github.com/natsan91/Monte_Carlo_in_Parallel/blob/master/Integrand.jpg" alt="Integrand" style="zoom:67%;" />
 
 This repository provides code for numerically computing the integral 
+
+
 $$
 \mathcal{I} = \int_0^\infty e^{-x} \cos(x)\,dx
 $$
+
+
 using Monte Carlo sampling. The integral is relatively simple to compute by hand (it equals 1/2), but Monte Carlo is a convenient way to do the  problem numerically even though the domain of integration is infinite. This integral can be computed numerically by considering 
+
+
 $$
 p(x) = e^{-x}
 $$
+
+
 to be a probability distribution (note that it is a valid distribution as it is nonnegative and its
 total integral on 0 to 1 is 1), then the above integral is equivalent to the expectation
 $$
