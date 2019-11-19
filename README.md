@@ -5,7 +5,7 @@
 This repository provides code for numerically computing the integral 
 
 ```
-![equation]([img]http://www.sciweavers.org/tex2img.php?eq=%5Cint_0%5E%5Cinfty%20e%5E%7B-x%7D%5Ccos%28x%29%5C%2Cdx&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0[/img])
+![equation](http://www.sciweavers.org/tex2img.php?eq=%5Cint_0%5E%5Cinfty%20e%5E%7B-x%7D%5Ccos%28x%29%5C%2Cdx&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0)
 ```
 
 $$
