@@ -1,6 +1,6 @@
 # Monte Carlo in Parallel
 
-<img src="C:\Users\natha\Documents\GitHub\Monte_Carlo_in_Parallel\Integrand.jpg" alt="Integrand" style="zoom: 67%;" />
+![Integrand]( https://github.com/natsan91/Monte_Carlo_in_Parallel/blob/master/Integrand.jpg )
 
 This repository provides code for numerically computing the integral 
 $$
